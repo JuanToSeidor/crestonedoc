@@ -14,7 +14,7 @@ Select the "Google Cloud Platform" option for the destination type.
 ### 2. Enter GCP credentials:
 You will be shown a section where you must upload the file with the credentials to connect to your Google Cloud Platform account.
 <p align="center">
-![cdpbgdbsv3](/img/old/gcp/file.png)
+![cdpbgdbsv3](/img/old/gcp/File.png)
 </p>
 
 

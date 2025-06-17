@@ -23,7 +23,7 @@ Before beginning, ensure you have:
 
 ---
 <Titleicon icon="wrenchPrice" >
-### 📥 Step-by-Step Installation Process
+### Step-by-Step Installation Process
 </Titleicon>
 #### **Step 1: Open AWS Installer Console**
 

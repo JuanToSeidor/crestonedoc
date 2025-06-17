@@ -18,7 +18,7 @@ Select the Map Fields you want for the node.
 ![chrome_j1zwi4mjmj](/img/old/node/chrome_j1zwi4mjmj.png)
 
 <Admonition type="tip">
-If you need to configure the nodes in more detail, we recommend you read the [SQL Editor](/docs/sections/Nodes/VariablesinNodes) page.
+If you need to configure the nodes in more detail, we recommend you read the [SQL Editor](/docs/sections/nodes/sqleditor/VariablesinNodes) page.
 </Admonition>
 
 ### 3. Done 

@@ -205,7 +205,7 @@ The SAP FI (Financial Accounting) module is a core component of the SAP ERP syst
 
 ### **FI Transactional Data Extractors**
 
-![a](/img/Conections/estractores/transaction_fi.png)
+![a](/img/Conections/estractores/Transaction_fi.png)
 
 
 

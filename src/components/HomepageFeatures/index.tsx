@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
         Define what data to extract and how to process it before sending it.
       </>
     ),
-    link: '/docs/sections/Nodes/',
+    link: '/docs/sections/nodes/',
   },
   {
     title: 'Create a Job',
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
         Orchestrate the execution of multiple nodes and destinations with customized rules.
       </>
     ),
-    link: '/docs/sections/Jobs',
+    link: '/docs/sections/jobs',
   },
   {
     title: 'Workspaces',
@@ -58,7 +58,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>Organize your connections, nodes and jobs in collaborative environments. </>
     ),
-    link: 'docs/sections/Settings#1-add-new-workspace',
+    link: 'docs/sections/settings#1-add-new-workspace',
   },
   {
     title: 'Monitor',   
@@ -68,7 +68,7 @@ const FeatureList: FeatureItem[] = [
         Monitor the status and results of each run in real time.
       </>
     ),
-    link: 'docs/sections/Monitor',
+    link: 'docs/sections/monitor',
   },
 ];
 

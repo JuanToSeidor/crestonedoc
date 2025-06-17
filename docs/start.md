@@ -31,7 +31,7 @@ To get started, make sure you have the necessary credentials for both the source
 ![conection](/img/old/star/conection.gif)
 </p>
 
-If you require more information on connections, please see the [connections page](/docs/sections/Conections/).
+If you require more information on connections, please see the [connections page](/docs/sections/conections/).
 ### Create new Source 
 **Source Connection**: Provide your source credentials and configure the connection parameters.
 
@@ -43,7 +43,7 @@ Enter the required data to be able to connect correctly with your destination.
 ![chrome_ffaxuw3rlp.png](/img/old/connection/chrome_ffaxuw3rlp.png)
 
 ## Create Nodes
-For node creation, it is essential to have previously established at least one [Souce](#create-new-source) and one [Destination](#Create-New-Destination).These connections are fundamental, as the nodes will depend on them to effectively synchronize the data. Make sure to properly configure both ends before proceeding with node creation.
+For node creation, it is essential to have previously established at least one [Souce](/docs/start#create-new-source) and one [Destination](/docs/start#Create-New-Destination).These connections are fundamental, as the nodes will depend on them to effectively synchronize the data. Make sure to properly configure both ends before proceeding with node creation.
 
 ![chrome_c29onchecm.gif](/img/old/connection/chrome_c29onchecm.gif)
 

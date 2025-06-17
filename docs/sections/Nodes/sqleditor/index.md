@@ -50,5 +50,5 @@ MANDT = 400 AND LAND1 = 'DE'
 - Editor Mode: Enables a more guided UI experience.
 <Admonition type="tip">
 You can also insert reusable variables to make your queries dynamic.
-See the [Variables Guide](/docs/sections/Nodes/sqleditor/VariablesinNodes) for more details on how to define and use them.
+See the [Variables Guide](/docs/sections/nodes/sqleditor/VariablesinNodes) for more details on how to define and use them.
 </Admonition>

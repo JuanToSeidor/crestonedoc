@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 import {Cardcre, Feature} from '../../cards/cards.tsx';
 
 ## Let's start 
-For node creation, it is essential to have previously established at least one [Souce and Destination.](/docs/sections/Conections/) These connections are fundamental, as the nodes will depend on them to effectively synchronize the data. Make sure to properly configure both ends before proceeding with node creation.
+For node creation, it is essential to have previously established at least one [Souce and Destination.](/docs/sections/conections) These connections are fundamental, as the nodes will depend on them to effectively synchronize the data. Make sure to properly configure both ends before proceeding with node creation.
 
 ## Create new Node
 Steps to create a Node:
@@ -42,7 +42,7 @@ According to the source configure the node to extract the necessary
     description="For detailed instructions on configuring a node when SAP S/4HANA is used as the source."
     icon="SAP"
     brand={true}
-    link='/docs/sections/Nodes/setupsource/table_s4'
+    link='/docs/sections/nodes/setupsource/table'
 />
   </TabItem>
   <TabItem value="SAP ABAP" label="SAP ABAP" default>
@@ -52,31 +52,31 @@ According to the source configure the node to extract the necessary
             title="Table"
             description="Direct extraction from transparent tables or views."
             icon="SAP"
-            link='/docs/sections/Nodes/setupsource/table'
+            link='/docs/sections/nodes/setupsource/table'
         />
         <Feature
             title="Reports"
             description="Execution of custom ABAP reports (Z-reports) that return structured output."
             icon="SAP"
-            link='/docs/sections/Nodes/setupsource/reports'
+            link='/docs/sections/nodes/setupsource/reports'
         />
         <Feature
             title="BAPI"
             description="Data extraction via BAPIs, typically requiring input parameters and structure mapping."
             icon="SAP"
-            link='/docs/sections/Nodes/setupsource/bapi'
+            link='/docs/sections/nodes/setupsource/bapi'
         />
         <Feature
             title="Extractor"
             description="Use of SAP standard extractors (e.g., 2LIS_*) for data already prepared for reporting."
             icon="SAP"
-            link='/docs/sections/Nodes/setupsource/extractor'
+            link='/docs/sections/nodes/setupsource/extractor'
         />
         <Feature
             title="CDC"
             description="Incremental extraction of only the records changed since the last execution."
             icon="SAP"
-            link='/docs/sections/Nodes/setupsource/cdc'
+            link='/docs/sections/nodes/setupsource/cdc'
         />
     </div>
   </TabItem>
@@ -98,13 +98,13 @@ Crestone supports two main export modes:
         title="Table"
         description=" Ideal for structured, query-ready data."
         icon= 'list'
-        link= '/docs/sections/Nodes/data/table'
+        link= '/docs/sections/nodes/data/table'
     />  
     <Feature
         title="Stage"
         description="Suitable for raw or semi-structured data files, available in CSV or Parquet format."
         icon= 'folder'
-        link='/docs/sections/Nodes/data/stage'
+        link='/docs/sections/nodes/data/stage'
     />
 </div>
 

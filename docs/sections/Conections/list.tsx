@@ -13,7 +13,7 @@ const FeatureList: FeatureItem[] = [
 
       </>
     ),
-    link: 'Source/SAPabap',
+    link: '/docs/sections/conections/source/sapabap',
   },
  
   {
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
         Enables access to advanced data models built with CDS views. Offers semantic-rich, optimized queries for modern S/4HANA deployments.
       </>
     ),
-    link: 'Source/SAP4hanna',
+    link: '/docs/sections/conections/source/sap4hanna',
   }, {
     title: 'SAP OData',
     icon: 'SapOdata',
@@ -35,7 +35,7 @@ const FeatureList: FeatureItem[] = [
         Connects via OData services to expose business data through RESTful APIs. Suitable for scenarios that require loosely coupled, service-oriented access to SAP entities.
       </>
     ),
-    link: 'Source/SAPOdata',
+    link: '/docs/sections/conections/source/sapodata',
   },
   
 ];
@@ -45,7 +45,7 @@ const DestinationList: FeatureItem[] = [
     title: "AWS S3",
     icon: "AWS",
     brand: true,
-    link: 'Detinations/aws',
+    link: '/docs/sections/conections/detinations/aws',
     description: (
       <>
         Object storage destination for raw or transformed SAP data. Useful for data lake architectures and integration with AWS analytics tools.
@@ -55,7 +55,7 @@ const DestinationList: FeatureItem[] = [
   },{
     title: "Snowflake",
     icon: "snowflake",
-    link: 'Detinations/snowflafe',
+    link: '/docs/sections/conections/detinations/snowflafe',
     brand: true,
     description: (
       <>
@@ -67,7 +67,7 @@ const DestinationList: FeatureItem[] = [
     title: 'Azure',
     icon: 'Azure',
     brand: true,
-    link: 'Detinations/Azure',
+    link: '/docs/sections/conections/detinations/Azure',
     description: (
       <>
         Scalable storage for big data workloads. Facilitates integration with Azure Synapse, Databricks, and other Microsoft services.
@@ -77,7 +77,7 @@ const DestinationList: FeatureItem[] = [
   },{
     title: 'azure SQL',
     icon: 'AzureSql',
-    link: 'Detinations/AzureSQL',
+    link: '/docs/sections/conections/detinations/AzureSQL',
     brand: true,
     description: (
       <>
@@ -87,7 +87,7 @@ const DestinationList: FeatureItem[] = [
   },{
       title: 'teradata',
       icon: 'Teradata',
-      link: 'Detinations/teradata',
+      link: '/docs/sections/conections/detinations/teradata',
       brand: true,
       description: (
         <>
@@ -98,7 +98,7 @@ const DestinationList: FeatureItem[] = [
     },{
       title: 'Databricks',
       icon: 'Databricks', 
-      link: 'Detinations/databricks',
+      link: '/docs/sections/conections/detinations/databricks',
       brand: true,
       description: (
         <>
@@ -109,7 +109,7 @@ const DestinationList: FeatureItem[] = [
     },{
       title: 'Google Cloud Platform',
       icon: 'GoogleStorage', 
-      link: 'Detinations/gcp',
+      link: '/docs/sections/conections/detinations/gcp',
       brand: true,
       description: (
         <>
@@ -119,7 +119,7 @@ const DestinationList: FeatureItem[] = [
     },{
       title: 'Windows file server',
       icon: 'file', 
-      link: 'Detinations/fileserver',
+      link: '/docs/sections/conections/detinations/fileserver',
       description: (
         <>
          Centralized storage solution that allows users on a network to access and share files.
