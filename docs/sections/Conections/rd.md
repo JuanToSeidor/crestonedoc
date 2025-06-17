@@ -140,7 +140,6 @@ The SAP FI (Financial Accounting) module is a core component of the SAP ERP syst
 
 ### FI Master Data Extractors
 
-![a](/img/Conections/estractores/master_fi.png)
 
 
 #### **Extractor: 0FI\_GL\_6** (General Ledger Master Data)
@@ -205,7 +204,6 @@ The SAP FI (Financial Accounting) module is a core component of the SAP ERP syst
 
 ### **FI Transactional Data Extractors**
 
-![a](/img/Conections/estractores/Transaction_fi.png)
 
 
 
@@ -274,7 +272,7 @@ The SAP MM (Materials Management) module is a core part of the SAP ERP system de
 
 ### Master Data Extractors
 
-![a](/img/Conections/estractores/master_mm.png)
+
 
 #### **Extractor: 0MATERIAL\_ATTR** (Material Master Attributes)
 
@@ -409,7 +407,7 @@ The SAP SD (Sales and Distribution) module is a key component of the SAP ERP sys
 
 ### SD Master Data Extractors
 
-![a](/img/Conections/estractores/master_sd.png)
+
 
 #### **Extractor: 0CUSTOMER\_ATTR** (Customer Master Attributes)
 
@@ -454,7 +452,7 @@ The SAP SD (Sales and Distribution) module is a key component of the SAP ERP sys
 
 ### SD Transactional Data Extractors
 
-![a](/img/Conections/estractores/transaction_sd.png)
+
 
 #### **Extractor: 2LIS\_11\_VAITM** (Sales Order Item Data)
 
@@ -546,7 +544,6 @@ The SAP PP (Production Planning) module is a vital part of the SAP ERP system, d
 
 ### PP Master Data Extractors
 
-![a](/img/Conections/estractores/master_pp.png)
 
 #### **xtractor: 0MATERIAL\_ATTR** (Material Master Attributes for PP)
 
@@ -615,7 +612,7 @@ The SAP PP (Production Planning) module is a vital part of the SAP ERP system, d
 
 ### PP Transactional Data Extractors
 
-![a](/img/Conections/estractores/transaction_pp.png)
+
 
 #### **Extractor: 2LIS\_04\_P\_ARBPL** (Work Center Load)
 
@@ -706,8 +703,6 @@ Key features include work breakdown structures (WBS), project cost and revenue t
 
 ### PS Master Data Extractors
 
-![a](/img/Conections/estractores/master_ps.png)
-
 #### **Extractor: 0PROJECT\_ATTR** (Project Attributes)
 
 | **Field Name** | **Description** |
@@ -778,8 +773,6 @@ Key features include work breakdown structures (WBS), project cost and revenue t
 | `KTEXT` | Activity Description |
 
 ### PS Transactional Data Extractors
-
-![a](/img/Conections/estractores/transaction_ps.png)
 
 #### **Extractor: 2LIS\_13\_VDITM** (PS Billing: Line Item Data)
 
@@ -869,7 +862,6 @@ SAP CO helps organizations monitor costs, allocate resources effectively, and as
 
 ### CO Master Data Extractors
 
-![a](/img/Conections/estractores/master_co.png)
 
 #### **Extractor: 0COSTCENTER\_ATTR** (Cost Center Attributes)
 
@@ -932,7 +924,7 @@ SAP CO helps organizations monitor costs, allocate resources effectively, and as
 
 ### CO Transactional Data Extractors
 
-![a](/img/Conections/estractores/transaction_co.png)
+
 
 #### **Extractor: 0CO\_OM\_CCA\_1** (Cost Center Accounting: Actual Costs)
 
