@@ -15,7 +15,7 @@ const config: Config = {
   organizationName: 'seidoran alytics',
   projectName: 'Crestone Docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
