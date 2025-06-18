@@ -44,7 +44,6 @@ Create the Custom Authorization Object Z_TS_PROG
 3. Enter the following values:
 ```
 Object: Z_TS_PROG
-Text: Theobald Software Report Authorization
 ```
 
 <p align="center">
